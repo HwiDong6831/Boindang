@@ -43,7 +43,7 @@
 
 
 ## 아키텍처
-![보인당_아키텍쳐_최종](/uploads/b66267fd401c02640ad90ebe526077e0/보인당_아키텍쳐_최종.png)
+![Image](https://github.com/user-attachments/assets/5efb7c54-956d-427e-aa88-ebf65956ff38)
 ## 주요기능
 
 ## 결과 및 성과
