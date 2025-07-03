@@ -55,7 +55,7 @@
 ## 주요기능
 
 ### 1. 메인 기능(영양성분 분석)
-| <img src="https://github.com/user-attachments/assets/86efae9a-ee27-4099-8850-0d5950008f3c" width="500"> | ![Image](https://github.com/user-attachments/assets/f9a51906-6bb7-415d-8bf2-5b8f2f24e621) | ![Image](https://github.com/user-attachments/assets/e4fa70f6-6456-4554-805e-dfe2c0173b52) | ![Image](https://github.com/user-attachments/assets/b6cde0a3-dc87-4633-8d05-27884a0adbc9) |
+| <img src="https://github.com/user-attachments/assets/86efae9a-ee27-4099-8850-0d5950008f3c" width="500"> | <img src="https://github.com/user-attachments/assets/f9a51906-6bb7-415d-8bf2-5b8f2f24e621" width="500"> | <img src="https://github.com/user-attachments/assets/e4fa70f6-6456-4554-805e-dfe2c0173b52" width="500"> | <img src="https://github.com/user-attachments/assets/b6cde0a3-dc87-4633-8d05-27884a0adbc9" width="500"> |
 |---|---|---|---|
 | 메인화면 | 촬영가이드 | 분석진행화면 | 리포트 요약 |
 
@@ -64,6 +64,17 @@
 | ![Image](https://github.com/user-attachments/assets/0d0c32a2-4dd7-4308-a223-e3a188586429)) | ![Image](https://github.com/user-attachments/assets/8007e66d-2eb4-46f9-bc87-0e23b824f0e1) | ![Image](https://github.com/user-attachments/assets/80fae755-b387-4f1f-9d6e-900951f15c1d) |
 | 안전도 분석 | 성분 구성 | 주의 성분 | 
 
+
+
+![Image](https://github.com/user-attachments/assets/dc26d5d4-01cb-42a3-a11b-bbd006596605)
+
+![Image](https://github.com/user-attachments/assets/61b48e2b-cded-4a47-bd71-0169abb73857)
+
+![Image](https://github.com/user-attachments/assets/46878262-12b9-4ec9-ba78-1ca553a64985)
+
+![Image](https://github.com/user-attachments/assets/6a3e4fa4-70b0-4a9c-ae6d-2074c3e03462)
+
+![Image](https://github.com/user-attachments/assets/cb550574-68d2-40a3-b020-05f8d27bfca4
 
 
 
