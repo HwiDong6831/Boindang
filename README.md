@@ -1,4 +1,5 @@
- # 보인당
+# 보인당
+<img src="https://github.com/user-attachments/assets/b4ca15b7-ac10-42a2-9d72-b337c54dfe39">
 
 ## 목차
 1. [프로젝트 소개](#프로젝트-소개)
