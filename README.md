@@ -119,8 +119,9 @@ OCR을 이용해 제품의 영양정보를 촬영하면 텍스트 추출, 정제
 
 ## 팀원 정보
 | ㅁㅁ | ㅁㅁ | ㅁㅁ |
-| 김유진 | 김휘동 | 정나금 |
+|---|---|---|
+| [김유진](https://github.com/zladb) | [김휘동](https://github.com/HwiDong6831) | [정나금](https://github.com/gomie1) |
 | ㅁㅁ | ㅁㅁ | ㅁㅁ |
-| 권가영 | 서유민 | 신은찬 |
+| [권가영](https://github.com/gayeong718) | [서유민](https://github.com/sennaseo) | [신은찬](https://github.com/eunchan0324) |
 
 
