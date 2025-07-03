@@ -60,8 +60,8 @@
 | 메인화면 | 촬영가이드 | 분석진행화면 | 리포트 요약 |
 
 ### 2. 리포트 상세보기
-
 | <img src="https://github.com/user-attachments/assets/0d0c32a2-4dd7-4308-a223-e3a188586429" width="200"> | <img src="https://github.com/user-attachments/assets/8007e66d-2eb4-46f9-bc87-0e23b824f0e1" width="200"> | <img src="https://github.com/user-attachments/assets/80fae755-b387-4f1f-9d6e-900951f15c1d" width="200">  |
+|---|---|---|
 | 안전도 분석 | 성분 구성 | 주의 성분 | 
 
 
