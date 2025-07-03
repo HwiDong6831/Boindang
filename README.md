@@ -1,5 +1,5 @@
 # 보인당
-<img src="https://github.com/user-attachments/assets/b4ca15b7-ac10-42a2-9d72-b337c54dfe39">
+<img src="https://github.com/user-attachments/assets/f7002d8d-3631-408d-b90e-c8f545d352b9">
 
 ## 목차
 1. [프로젝트 소개](#프로젝트-소개)
