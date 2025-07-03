@@ -118,10 +118,10 @@ OCR을 이용해 제품의 영양정보를 촬영하면 텍스트 추출, 정제
 
 
 ## 팀원 정보
-| Backend, OCR | Backend, Infra | Backend, DB |
-|---|---|---|
-| [김유진](https://github.com/zladb) | [김휘동](https://github.com/HwiDong6831) | [정나금](https://github.com/gomie1) |
-| Frontend | Frontend | Frontend |
-| [권가영](https://github.com/gayeong718) | [서유민](https://github.com/sennaseo) | [신은찬](https://github.com/eunchan0324) |
+| 역할 | 이름 | 역할 | 이름 |
+|---|---|
+| Backend, OCR | [김유진](https://github.com/zladb) | Frontend | [권가영](https://github.com/gayeong718)
+| Backend, Infra | [김휘동](https://github.com/HwiDong6831) | Frontend | [서유민](https://github.com/sennaseo) 
+| Backend, DB | [정나금](https://github.com/gomie1) | Frontend | [신은찬](https://github.com/eunchan0324) |
 
 
