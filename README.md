@@ -55,7 +55,7 @@
 ## 주요기능
 
 ### 1. 메인 기능(영양성분 분석)
-| <img src="https://github.com/user-attachments/assets/86efae9a-ee27-4099-8850-0d5950008f3c" width="500"> | <img src="https://github.com/user-attachments/assets/f9a51906-6bb7-415d-8bf2-5b8f2f24e621" width="500"> | <img src="https://github.com/user-attachments/assets/e4fa70f6-6456-4554-805e-dfe2c0173b52" width="500"> | <img src="https://github.com/user-attachments/assets/b6cde0a3-dc87-4633-8d05-27884a0adbc9" width="500"> |
+| <img src="https://github.com/user-attachments/assets/86efae9a-ee27-4099-8850-0d5950008f3c" width="200"> | <img src="https://github.com/user-attachments/assets/f9a51906-6bb7-415d-8bf2-5b8f2f24e621" width="200"> | <img src="https://github.com/user-attachments/assets/e4fa70f6-6456-4554-805e-dfe2c0173b52" width="200"> | <img src="https://github.com/user-attachments/assets/b6cde0a3-dc87-4633-8d05-27884a0adbc9" width="200"> |
 |---|---|---|---|
 | 메인화면 | 촬영가이드 | 분석진행화면 | 리포트 요약 |
 
