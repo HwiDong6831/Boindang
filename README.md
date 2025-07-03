@@ -64,18 +64,15 @@
 |---|---|---|
 | 안전도 분석 | 성분 구성 | 주의 성분 | 
 
+### 3. 성분 백과사전
+| <img src="https://github.com/user-attachments/assets/dc26d5d4-01cb-42a3-a11b-bbd006596605" width="200"> | <img src="https://github.com/user-attachments/assets/61b48e2b-cded-4a47-bd71-0169abb73857" width="200"> | <img src="https://github.com/user-attachments/assets/46878262-12b9-4ec9-ba78-1ca553a64985" width="200"> |
+|---|---|---|
+| 백과사전 메인화면 | 성분 검색 | 성분 상세정보 | 
 
-
-![Image](https://github.com/user-attachments/assets/dc26d5d4-01cb-42a3-a11b-bbd006596605)
-
-![Image](https://github.com/user-attachments/assets/61b48e2b-cded-4a47-bd71-0169abb73857)
-
-![Image](https://github.com/user-attachments/assets/46878262-12b9-4ec9-ba78-1ca553a64985)
-
-![Image](https://github.com/user-attachments/assets/6a3e4fa4-70b0-4a9c-ae6d-2074c3e03462)
-
-![Image](https://github.com/user-attachments/assets/cb550574-68d2-40a3-b020-05f8d27bfca4
-
+### 4. 기타
+| <img src="https://github.com/user-attachments/assets/cb550574-68d2-40a3-b020-05f8d27bfca4" width="200"> | <img src="https://github.com/user-attachments/assets/6a3e4fa4-70b0-4a9c-ae6d-2074c3e03462" width="200"> |
+|---|---|
+| 영양퀴즈 | 분석완료 알림|
 
 
 ## 결과 및 성과
