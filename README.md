@@ -53,6 +53,10 @@
 ## 아키텍처
 ![Image](https://github.com/user-attachments/assets/5efb7c54-956d-427e-aa88-ebf65956ff38)
 ## 주요기능
+|  |  |  |
+|---|---|---|
+| 메인화면 | 촬영가이드 | 분석진행화면 |
+
 
 ## 결과 및 성과
 
