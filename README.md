@@ -57,22 +57,22 @@
 ### 1. 메인 기능(영양성분 분석)
 | <img src="https://github.com/user-attachments/assets/86efae9a-ee27-4099-8850-0d5950008f3c" width="200"> | <img src="https://github.com/user-attachments/assets/f9a51906-6bb7-415d-8bf2-5b8f2f24e621" width="200"> | <img src="https://github.com/user-attachments/assets/e4fa70f6-6456-4554-805e-dfe2c0173b52" width="200"> | <img src="https://github.com/user-attachments/assets/b6cde0a3-dc87-4633-8d05-27884a0adbc9" width="200"> |
 |---|---|---|---|
-| 메인화면 | 촬영가이드 | 분석진행화면 | 리포트 요약 |
+| 메인화면 | 촬영 가이드 | 분석 진행 화면 | 리포트 요약 |
 
 ### 2. 리포트 상세보기
 | <img src="https://github.com/user-attachments/assets/0d0c32a2-4dd7-4308-a223-e3a188586429" width="200"> | <img src="https://github.com/user-attachments/assets/8007e66d-2eb4-46f9-bc87-0e23b824f0e1" width="200"> | <img src="https://github.com/user-attachments/assets/80fae755-b387-4f1f-9d6e-900951f15c1d" width="200">  |
 |---|---|---|
-| 안전도 분석 | 성분 구성 | 주의 성분 | 
+| 안전도 체크 | 성분 구성 | 유저 타입별 주의 성분 | 
 
 ### 3. 성분 백과사전
 | <img src="https://github.com/user-attachments/assets/dc26d5d4-01cb-42a3-a11b-bbd006596605" width="200"> | <img src="https://github.com/user-attachments/assets/61b48e2b-cded-4a47-bd71-0169abb73857" width="200"> | <img src="https://github.com/user-attachments/assets/46878262-12b9-4ec9-ba78-1ca553a64985" width="200"> |
 |---|---|---|
-| 백과사전 메인화면 | 성분 검색 | 성분 상세정보 | 
+| 백과사전 메인화면 | 성분 검색 | 성분 상세 정보 | 
 
 ### 4. 기타
-| <img src="https://github.com/user-attachments/assets/cb550574-68d2-40a3-b020-05f8d27bfca4" width="200"> | <img src="https://github.com/user-attachments/assets/6a3e4fa4-70b0-4a9c-ae6d-2074c3e03462" width="200"> |
+| <img src="https://github.com/user-attachments/assets/6a3e4fa4-70b0-4a9c-ae6d-2074c3e03462" width="200"> | <img src="https://github.com/user-attachments/assets/cb550574-68d2-40a3-b020-05f8d27bfca4" width="200"> |
 |---|---|
-| 영양퀴즈 | 분석완료 알림|
+| 영양 퀴즈 | 분석 완료 알림 |
 
 
 ## 결과 및 성과
